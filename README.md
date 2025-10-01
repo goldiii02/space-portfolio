@@ -2,7 +2,7 @@
 
 # Modern Space Portfolio: A Next.js 14 & Three.js Project by Goldi Rathore
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Portfolio by Goldi Rathore")
+![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/myimg1.png "Modern Portfolio by Goldi Rathore")
 
 [![GitHub license](https://flat.badgen.net/github/license/GoldiRathore/my-new-space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/GoldiRathore/my-new-space-portfolio/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/GoldiRathore/my-new-space-portfolio/commits/main "Maintenance")
