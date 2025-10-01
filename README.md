@@ -32,7 +32,6 @@
 Here is the folder structure of this app.
 
 ```bash
-[... This section remains the same, showing the directory tree ...]
 space-portfolio/
   |- app/
     |-- favicon.ico
